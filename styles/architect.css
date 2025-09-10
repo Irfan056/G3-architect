@@ -145,7 +145,7 @@ main > section{
     grid-template-columns: repeat(5, 1fr);
 }
 .sponsor-companies img{
-    filter:grayscale(100);
+    filter:grayscale(100%);
 }
 
 
